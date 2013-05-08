@@ -1,0 +1,30 @@
+C:\Users\Vlad\AppData\Local\Temporary Projects\CreativelyControlled\bin\Release\CreativelyControlled.exe
+C:\Users\Vlad\AppData\Local\Temporary Projects\CreativelyControlled\bin\Release\CreativelyControlled.pdb
+C:\Users\Vlad\AppData\Local\Temporary Projects\CreativelyControlled\bin\Release\CreativelyControlled.xml
+C:\Users\Vlad\AppData\Local\Temporary Projects\CreativelyControlled\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vlad\AppData\Local\Temporary Projects\CreativelyControlled\obj\x86\Release\CreativelyControlled.Form1.resources
+C:\Users\Vlad\AppData\Local\Temporary Projects\CreativelyControlled\obj\x86\Release\CreativelyControlled.Resources.resources
+C:\Users\Vlad\AppData\Local\Temporary Projects\CreativelyControlled\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Vlad\AppData\Local\Temporary Projects\CreativelyControlled\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Vlad\AppData\Local\Temporary Projects\CreativelyControlled\obj\x86\Release\CreativelyControlled.exe
+C:\Users\Vlad\AppData\Local\Temporary Projects\CreativelyControlled\obj\x86\Release\CreativelyControlled.xml
+C:\Users\Vlad\AppData\Local\Temporary Projects\CreativelyControlled\obj\x86\Release\CreativelyControlled.pdb
+C:\Users\Vlad\AppData\Local\Temporary Projects\CreativelyControlled\bin\Release\Midi.dll
+C:\Users\Vlad\AppData\Local\Temporary Projects\CreativelyControlled\bin\Release\Midi.pdb
+C:\Users\Vlad\AppData\Local\Temporary Projects\CreativelyControlled\bin\Release\Midi.xml
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\obj\x86\Release\CreativelyControlled.exe
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\obj\x86\Release\CreativelyControlled.xml
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\obj\x86\Release\CreativelyControlled.pdb
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\bin\Release\CreativelyControlled.exe
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\bin\Release\CreativelyControlled.pdb
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\bin\Release\CreativelyControlled.xml
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\bin\Release\Midi.dll
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\bin\Release\Midi.pdb
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\bin\Release\Midi.xml
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\obj\x86\Release\CreativelyControlled.Form1.resources
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\obj\x86\Release\CreativelyControlled.Resources.resources
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\bin\Release\CreativelyControlled.exe.config
+C:\Users\Vlad\documents\visual studio 2010\Projects\CreativelyControlled\CreativelyControlled\obj\x86\Release\CreativelyControlled.CCAEditor.resources
